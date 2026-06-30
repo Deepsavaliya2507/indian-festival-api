@@ -4,7 +4,7 @@ export const metadata = {
     'Free, open-source REST API for Indian festivals, national holidays, and auspicious dates. Filter by religion, month, state, and more.',
 };
 
-// const BASE = 'https://indian-festival-api.vercel.app';
+const BASE = 'https://indian-festival-api.vercel.app';
 
 const BASE = '';
 
