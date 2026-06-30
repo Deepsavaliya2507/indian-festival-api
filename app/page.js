@@ -6,8 +6,6 @@ export const metadata = {
 
 const BASE = 'https://indian-festival-api.vercel.app';
 
-const BASE = '';
-
 const endpoints = [
   {
     method: 'GET',
